@@ -31,3 +31,19 @@ Keeping us in the same point raised, an ML Engineer "Must" have an advanced unde
 And of course the ability to work and serve others, Leadership, in a sense that the Models and Systems built are built for others to access and use them otherwise, why bother building that in the first place then? So having always in mind the users of the ML Models can make the job more enjoyable to do. 
 
 > The Course is an exam-based format, with preparatory resources included in the Machine Learning Engineer learning path. Where one can explore online training, in-person classes, hands-on labs, and other resources from Google Cloud.
+
+
+
+## The Guide 
+Think of this section as: What is an ML Engineer supposed to do guide.
+
+### The course guide suggests that the ML Engineer must do the following
+- Collaborates closely with other job roles to ensure long-term success of ML-based applications.
+- Has experience with data platforms and distributed data processing tools.
+- Proficient in `model architecture`, `data and ML pipeline creation`, and `metrics interpretation`.
+- Familiar with `foundational concepts of MLOps`, `application development`, `infrastructure management`, `data engineering`, and `data governance`.
+- Makes ML accessible and enables teams across the organization.
+- By training, retraining, deploying, scheduling, monitoring, and improving models.
+- The ML Engineer designs and creates scalable, performant solutions.
+  
+> Note: The exam does not directly assess coding skill. If you have a minimum proficiency in Python and Cloud SQL, you should be able to interpret any questions with code snippets.
