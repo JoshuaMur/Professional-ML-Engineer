@@ -28,4 +28,6 @@ Keeping us in the same point raised, an ML Engineer "Must" have an advanced unde
 
 > The ML Engineer makes ML accessible and enables teams across the organization. By training, retraining, deploying, scheduling, monitoring, and improving models, the ML Engineer designs and creates scalable, performant solutions.
 
-And of course the ability to work and serve others, Leadership, in a sense that the Models and Systems built are built for others to access and use them otherwise, why bother building that in the first place then? So having always in mind the users of the ML Models can make the job more enjoying to do. 
+And of course the ability to work and serve others, Leadership, in a sense that the Models and Systems built are built for others to access and use them otherwise, why bother building that in the first place then? So having always in mind the users of the ML Models can make the job more enjoyable to do. 
+
+> The Course is an exam-based format, with preparatory resources included in the Machine Learning Engineer learning path. Where one can explore online training, in-person classes, hands-on labs, and other resources from Google Cloud.
